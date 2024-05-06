@@ -1,4 +1,5 @@
 // Define the test suite "Metamask Extension tests"
+// Define the test suite "Metamask Extension tests"
 describe('Metamask Extension tests', () => {
 
   // Define the test case "connect to DApp with Metamask extension example"
